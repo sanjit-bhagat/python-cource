@@ -1,2 +1,2 @@
-# python-cource
-## this is just a simple repo
+# Python low level design (lld)
+
